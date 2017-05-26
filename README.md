@@ -1,4 +1,7 @@
 
++ [算法组](http://suanfazu.com/c/ji-qi-xue-xi) 
+
+
 + [贝叶斯分析推断](http://www.datalearner.com/blog/1051459999897679)  
 + [高斯过程](http://www.datalearner.com/blog/1051459170229238)  
 + [混合高斯模型](http://www.datalearner.com/blog/1051459258496145)  
