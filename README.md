@@ -1,5 +1,5 @@
 
-+ [算法组](http://suanfazu.com/) 
+# 基础 [算法组](http://suanfazu.com/) 
 
 
 + [贝叶斯分析推断](http://www.datalearner.com/blog/1051459999897679)  
