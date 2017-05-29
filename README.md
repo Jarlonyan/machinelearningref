@@ -1,8 +1,11 @@
 
 # 经典书籍
 
-+ [Deep learnig with python -- by Nikhil  ](http://download.csdn.net/my)
-+ [Deep Learning -- by Ian Goodfellow](https://github.com/HFTrader/DeepLearningBook)
++ [Deep learnig with python](http://download.csdn.net/my)  
+  Nikhil大神的书籍，经典。
+  
++ [Deep Learning -- by Ian Goodfellow](https://github.com/HFTrader/DeepLearningBook)  
+  Ian Goodfellow和Benjio的大作，2017年最新更新。
 
 
 # 基础 [算法组](http://suanfazu.com/) 
