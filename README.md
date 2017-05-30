@@ -4,7 +4,7 @@
 + [Deep learnig with python](http://download.csdn.net/detail/sparroww/9855405)  
   `Nikhil`大神的经典书籍。讲解神经网络和深度学习最浅显易懂的书籍，并且给出了Deep Learning在Theano和Keras上的实践。
   
-+ [Deep Learning -- by Ian Goodfellow](https://github.com/HFTrader/DeepLearningBook)  
++ [Deep Learning ](https://github.com/HFTrader/DeepLearningBook)  
   `Ian Goodfellow` 和 `Benjio` 的大作，2017年最新更新。
 
 
