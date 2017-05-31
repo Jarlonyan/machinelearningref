@@ -11,8 +11,9 @@
 # 基础算法 
 
 + [GBDT](http://www.cnblogs.com/pinard/p/6140514.html)  
-+ [贝叶斯分析推断](http://www.datalearner.com/blog/1051459999897679)  
-+ [高斯过程](http://www.datalearner.com/blog/1051459170229238)  
++ [贝叶斯分析推断](http://www.datalearner.com/blog/1051459999897679)  
++ [Gibbs采样](http://www.cnblogs.com/pinard/p/6645766.html)  
++ [高斯过程](http://www.datalearner.com/blog/1051459170229238)   
 + [混合高斯模型](http://www.datalearner.com/blog/1051459258496145)  
 + [MCMC算法](http://www.datalearner.com/blog/1051459907954631)  
 + [Dirichlet过程](http://www.datalearner.com/blog/1051471599181249)  
