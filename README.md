@@ -9,8 +9,9 @@
 
 
 # 基础算法 
-
-+ [GBDT](http://www.cnblogs.com/pinard/p/6140514.html)  
++ [PCA](http://www.cnblogs.com/pinard/p/6239403.html)  
++ [SVD](http://www.cnblogs.com/pinard/p/6251584.html)  
++ [GBDT](http://www.cnblogs.com/pinard/p/6140514.html)  
 + [贝叶斯分析推断](http://www.datalearner.com/blog/1051459999897679)  
 + [Gibbs采样](http://www.cnblogs.com/pinard/p/6645766.html)  
 + [高斯过程](http://www.datalearner.com/blog/1051459170229238)   
