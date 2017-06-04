@@ -23,7 +23,8 @@
 
 
 ## 强化学习
-+ [强化学习-QLearning](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/2-1-general-rl/)  
++ [强化学习](https://www.zhihu.com/question/49230922)  
++ [Q-Learning](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/2-1-general-rl/)  
 
 # 代码实践
 + [PyTorch入门](https://sherlockliao.github.io/)  
