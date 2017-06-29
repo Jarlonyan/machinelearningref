@@ -29,4 +29,4 @@
 # 代码实践
 + [PyTorch入门](https://sherlockliao.github.io/)  
 + [50行代码实现GAN](https://jinfagang.github.io/2017/05/29/50%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0GAN%E7%B3%BB%E5%88%97-PyTorch/)
-
++ [keras](https://keras.io/)
