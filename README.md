@@ -21,6 +21,8 @@
 + [受限玻尔兹曼机](http://www.datalearner.com/blog/1051491808293861)  
 + [算法组](http://suanfazu.com/)  
 
+# 神经网络优化算法  
++ [SGD及其衍生算法](https://blog.slinuxer.com/2016/09/sgd-comparison)  
 
 ## 强化学习
 + [强化学习](https://www.zhihu.com/question/49230922)  
