@@ -18,8 +18,9 @@
 + [混合高斯模型](http://www.datalearner.com/blog/1051459258496145)  
 + [MCMC算法](http://www.datalearner.com/blog/1051459907954631)  
 + [Dirichlet过程](http://www.datalearner.com/blog/1051471599181249)  
-+ [受限玻尔兹曼机](http://www.datalearner.com/blog/1051491808293861)  
-+ [算法组](http://suanfazu.com/)  
++ [受限玻尔兹曼机RBM](http://www.datalearner.com/blog/1051491808293861)  
++ [RBM学习笔记](https://wenku.baidu.com/view/db591d95770bf78a652954ee.html)  
++ [算法组](http://suanfazu.com/)  
 
 # 神经网络优化算法  
 + [SGD及其衍生算法](https://blog.slinuxer.com/2016/09/sgd-comparison)  
