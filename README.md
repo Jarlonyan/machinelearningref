@@ -36,3 +36,10 @@
 + [Kreas--这套博客我给满分](http://www.jianshu.com/p/966e31faf32c)  
 + [50行代码实现GAN](https://jinfagang.github.io/2017/05/29/50%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0GAN%E7%B3%BB%E5%88%97-PyTorch/)
 + [keras](https://keras.io/)
+
+
+# vimrc
++ [vimr config](http://www.cnblogs.com/ma6174/archive/2011/12/10/2283393.html)
+
+
+
