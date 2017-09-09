@@ -5,7 +5,7 @@
   `Nikhil`大神的经典书籍。讲解神经网络和深度学习最浅显易懂的书籍，并且给出了 `Deep Learning` 在 `Theano` 和 `Keras` 上的实践。
   
 + [Deep Learning ](https://github.com/HFTrader/DeepLearningBook)  
-  `Ian Goodfellow` 和 `Benjio` 的大作，2017年最新更新。
+  `Ian Goodfellow` 和 `Benjio` 的大作，2017年最新更新。  
 
 
 # 基础算法 
