@@ -1,5 +1,5 @@
 
-# 经典书籍
+# 经典书籍  
 
 + [Deep learnig with python](http://download.csdn.net/detail/sparroww/9855405)  
   `Nikhil`大神的经典书籍。讲解神经网络和深度学习最浅显易懂的书籍，并且给出了 `Deep Learning` 在 `Theano` 和 `Keras` 上的实践。
@@ -8,7 +8,7 @@
   `Ian Goodfellow` 和 `Benjio` 的大作，2017年最新更新。  
 
 
-# 基础算法 
+# 基础算法  
 + [PCA](http://www.cnblogs.com/pinard/p/6239403.html)  
 + [SVD](http://www.cnblogs.com/pinard/p/6251584.html)  
 + [GBDT](http://www.cnblogs.com/pinard/p/6140514.html)  
@@ -26,11 +26,11 @@
 + [SGD及其衍生算法](https://blog.slinuxer.com/2016/09/sgd-comparison)  
 + [梯度下降优化方法总结](http://wowx.info/posts/401226963/)
 
-## 强化学习
+## 强化学习  
 + [强化学习](https://www.zhihu.com/question/49230922)  
 + [Q-Learning](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/2-1-general-rl/)  
 
-# 代码实践
+# 代码实践  
 + [PyTorch入门](https://sherlockliao.github.io/)  
 + [Keras:基于Theano和TensorFlow的深度学习库_cnblog](http://www.cnblogs.com/LittleHann/p/6442161.html)
 + [Kreas--这套博客我给满分](http://www.jianshu.com/p/966e31faf32c)  
@@ -38,7 +38,7 @@
 + [keras](https://keras.io/)
 
 
-# vimrc
+# vimrc  
 + [vimr config](http://www.cnblogs.com/ma6174/archive/2011/12/10/2283393.html)
 
 
