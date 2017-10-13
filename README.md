@@ -38,6 +38,9 @@
 + [keras](https://keras.io/)
 
 
+# 机器学习题目  
++ [机器学习习题](https://mp.weixin.qq.com/s/mp2dAJlyv7OsdHaJEDjzvg)  
+
 # vimrc  
 + [vimr config](http://www.cnblogs.com/ma6174/archive/2011/12/10/2283393.html)
 
