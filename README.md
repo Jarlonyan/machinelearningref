@@ -7,6 +7,8 @@
 + [Deep Learning ](https://github.com/HFTrader/DeepLearningBook)  
   `Ian Goodfellow` 和 `Benjio` 的大作，2017年最新更新。  
 
++ [神经网络与深度学习—— by Michael Nielsen](http://www.liuxiao.org/wp-content/uploads/2016/10/nndl-ebook.pdf)  
+
 
 # 基础算法  
 + [PCA](http://www.cnblogs.com/pinard/p/6239403.html)  
