@@ -5,7 +5,7 @@
   `Nikhil`大神的经典书籍。讲解神经网络和深度学习最浅显易懂的书籍，并且给出了 `Deep Learning` 在 `Theano` 和 `Keras` 上的实践。
   
 + [Deep Learning ](https://github.com/HFTrader/DeepLearningBook)  
-  `Ian Goodfellow` 和 `Benjio` 的大作，2017年最新更新。  
+  `Ian Goodfellow` 和 `Benjio` 的大作，坊间称之为`花书`（2017）。  
 
 + [神经网络与深度学习](http://www.liuxiao.org/wp-content/uploads/2016/10/nndl-ebook.pdf)  
   作者是 `Michael Nielsen` ， 这本书是最简单的神经网络入门书籍。  
