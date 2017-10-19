@@ -7,7 +7,8 @@
 + [Deep Learning ](https://github.com/HFTrader/DeepLearningBook)  
   `Ian Goodfellow` 和 `Benjio` 的大作，2017年最新更新。  
 
-+ [神经网络与深度学习—— by Michael Nielsen](http://www.liuxiao.org/wp-content/uploads/2016/10/nndl-ebook.pdf)  
++ [神经网络与深度学习](http://www.liuxiao.org/wp-content/uploads/2016/10/nndl-ebook.pdf)  
+  作者是 `Michael Nielsen` ， 这本书是最简单的神经网络入门书籍。  
 
 
 # 基础算法  
