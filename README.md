@@ -27,7 +27,8 @@
 
 # 神经网络优化算法  
 + [SGD及其衍生算法](https://blog.slinuxer.com/2016/09/sgd-comparison)  
-+ [梯度下降优化方法总结](http://wowx.info/posts/401226963/)
++ [梯度下降优化方法总结](http://wowx.info/posts/401226963/)  
++ [优化算法---OpenMIT](http://www.52caml.com/openmit/openmit-chapter6-optimizer/)  
 
 ## 强化学习  
 + [强化学习](https://www.zhihu.com/question/49230922)  
